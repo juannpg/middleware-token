@@ -4,3 +4,6 @@ A simple app consisting of a register page and a login page. Once you login you 
 
 ## **Usefulness:**
 You can setup this middleware verification in your project to allow user actions that modify the database, such as patch requests.
+
+### **Technologies:**
+Made with `React`, `Prisma` and `Express`
